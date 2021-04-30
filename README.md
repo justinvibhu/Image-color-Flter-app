@@ -1,1 +1,1 @@
-# Image-color-Flter-app
+# Image-color-filter-app
