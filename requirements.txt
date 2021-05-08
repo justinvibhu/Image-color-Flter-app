@@ -4,3 +4,4 @@ Pillow==8.2.0
 opencv-python==4.5.2.52
 matplotlib==3.4.2
 opencv-python-headless==4.2.0.32
+ibgl1-mesa-glx==21.0.1
