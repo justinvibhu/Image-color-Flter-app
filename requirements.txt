@@ -4,4 +4,3 @@ Pillow==8.2.0
 opencv-python==3.4.2.17
 matplotlib==3.4.2
 opencv-python-headless==4.2.0.32
-libsm6 libxext6
